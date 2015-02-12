@@ -14,3 +14,11 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+config/database.yml
+config/environment.rb
+config/application.rb
+public/
+.rvmrc
+Gemfile
+Gemfile.lock
+vendor/
